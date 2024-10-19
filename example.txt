@@ -3,3 +3,7 @@ This is how you print "hello" in python
 create a file myhello.py with contents
 
 print("hello")
+
+you can also print some other content like
+
+print("iitj")
