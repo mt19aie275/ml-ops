@@ -1,5 +1,13 @@
-This is how you print "hello" in python
+This is how you print "hello" in java
 
-create a file myhello.py with contents
+create a file myhello.java with contents
 
-print("hello")
+class test{
+
+	public static void main(String[] args){
+
+		System.out.println("hello");
+
+	}
+
+}
