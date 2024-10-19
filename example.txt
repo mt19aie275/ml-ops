@@ -1,0 +1,5 @@
+This is how you print "hello" in python
+
+create a file myhello.py with contents
+
+print("hello")
