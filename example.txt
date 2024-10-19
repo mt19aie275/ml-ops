@@ -1,5 +1,6 @@
-This is how you print "hello" in python
+python
 
+This is how you print "hello" in python
 create a file myhello.py with contents
 
 print("hello")
@@ -7,3 +8,21 @@ print("hello")
 you can also print some other content like
 
 print("iitj")
+
+
+
+Java
+
+
+
+This is how you print "hello" in java
+
+create a file myhello.java with contents
+
+	public static void main(String[] args){
+
+		System.out.println("hello");
+
+	}
+
+}
